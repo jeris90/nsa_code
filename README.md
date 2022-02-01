@@ -1,6 +1,10 @@
-# nsa_code
+Code for gradual semantics (nsa, h-cat and M&T)
+===================================================
 
-Author     : [Jérôme Delobelle](mailto:jerome.delobelle@u-paris.fr), University of Paris
+Author :
+* Jérôme Delobelle (mailto:jerome.delobelle@u-paris.fr), Université de Paris
+* Vivien (mailto:vivien@beuselinck.fr), Université Fédéral
+* Srdjan Vesic (mailto:vesic@cril.fr), Université d'Artois
 
 To compile:
 ```
